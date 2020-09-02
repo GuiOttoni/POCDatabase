@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[TabelaABC]
+﻿CREATE TABLE [dbo].[TabelaXZ]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Nome] NCHAR(10) NULL, 

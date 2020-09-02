@@ -58,12 +58,10 @@
     <Folder Include="Properties" />
     <Folder Include="Tables" />
     <Folder Include="Views" />
-    <Folder Include="StoredProcedure" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Tables\TabelaXZ.sql" />
+    <Build Include="Tables\TabelaX.sql" />
     <Build Include="Tables\TabelaY.sql" />
-    <Build Include="StoredProcedure\spTeste.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="POCDatabase.refactorlog" />

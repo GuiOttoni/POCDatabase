@@ -7,4 +7,18 @@
     <Property Name="ParentElementType" Value="SqlSchema" />
     <Property Name="NewName" Value="[TabelaXZ]" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="50280a41-023a-49da-9c53-8c2bee7ab139" ChangeDateTime="09/02/2020 17:36:36">
+    <Property Name="ElementName" Value="[dbo].[TabelaXZ]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[TabelaXYZ]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ae8de1cc-4635-4e8d-8d2e-b7f4dc236d9f" ChangeDateTime="09/02/2020 17:38:16">
+    <Property Name="ElementName" Value="[dbo].[TabelaXYZ]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[dbo]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[TabelaABC]" />
+  </Operation>
 </Operations>

@@ -1,31 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
-  <Operation Name="Rename Refactor" Key="43616abf-fbc2-4fcb-8d21-d78e5a32e030" ChangeDateTime="09/02/2020 15:54:59">
-    <Property Name="ElementName" Value="[dbo].[TesteNovoaaaa]" />
+  <Operation Name="Rename Refactor" Key="bf3f0feb-5ef4-43b8-941a-bfbfb21c3b9d" ChangeDateTime="09/02/2020 17:33:32">
+    <Property Name="ElementName" Value="[dbo].[TabelaX]" />
     <Property Name="ElementType" Value="SqlTable" />
     <Property Name="ParentElementName" Value="[dbo]" />
     <Property Name="ParentElementType" Value="SqlSchema" />
-    <Property Name="NewName" Value="[Ttesta]" />
-  </Operation>
-  <Operation Name="Rename Refactor" Key="48a4fbe6-eeca-47d7-96a1-6bde64a3cfcd" ChangeDateTime="09/02/2020 15:55:57">
-    <Property Name="ElementName" Value="[dbo].[Ttesta]" />
-    <Property Name="ElementType" Value="SqlTable" />
-    <Property Name="ParentElementName" Value="[dbo]" />
-    <Property Name="ParentElementType" Value="SqlSchema" />
-    <Property Name="NewName" Value="[Ttestando]" />
-  </Operation>
-  <Operation Name="Rename Refactor" Key="e9ee4319-9647-4ed6-8859-fcd78f5e71af" ChangeDateTime="09/02/2020 16:05:04">
-    <Property Name="ElementName" Value="[dbo].[Ttestando]" />
-    <Property Name="ElementType" Value="SqlTable" />
-    <Property Name="ParentElementName" Value="[dbo]" />
-    <Property Name="ParentElementType" Value="SqlSchema" />
-    <Property Name="NewName" Value="[FuncionaPrfv]" />
-  </Operation>
-  <Operation Name="Rename Refactor" Key="7d892583-7a34-4528-9785-debcd600b47e" ChangeDateTime="09/02/2020 16:06:12">
-    <Property Name="ElementName" Value="[dbo].[FuncionaPrfv].[Nome]" />
-    <Property Name="ElementType" Value="SqlSimpleColumn" />
-    <Property Name="ParentElementName" Value="[dbo].[FuncionaPrfv]" />
-    <Property Name="ParentElementType" Value="SqlTable" />
-    <Property Name="NewName" Value="[NomeA]" />
+    <Property Name="NewName" Value="[TabelaXZ]" />
   </Operation>
 </Operations>
